@@ -21,7 +21,7 @@ Por mi cuenta he hecho cursos de:
 
 :bulb: Estoy interesado en completar mis estudios, investigar y desarrollar nuevas tecnologías.
 
--> En mis ratos libres me dedico programar sistemas para servidores derivados de Argentum Online o estudiando a dos manos 🤣.
+☝️🤓 En mis ratos libres me dedico programar sistemas para servidores derivados de Argentum Online o estudiando a dos manos 🤣.
 
 ## Mis habilidades
 
@@ -50,8 +50,12 @@ Por mi cuenta he hecho cursos de:
 <hr>
 <p align="center">
    <i>Si tardo en responder, ¡Es que estoy programando!</i>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/785fa159-8d77-47b9-8339-604307f57c40"> </img>
+</div>
+<div align="center">
    <br>
-<br>	
+<br>
 <a target="_blank" href="https://www.linkedin.com/in/Santiago-Marranti/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkerd&logoColor=white"></img></a>
 <a target="_blank" href="mailto:marrantis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://discordapp.com/users/398518351359639562"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></img></a>
@@ -59,4 +63,5 @@ Por mi cuenta he hecho cursos de:
 	<a target="_blank" href="https://x.com"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></img></a>
 -->
 <br>
+</div>
 </p>
