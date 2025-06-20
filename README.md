@@ -21,7 +21,7 @@ Por mi cuenta he hecho cursos de:
 
 :bulb: Estoy interesado en completar mis estudios, investigar y desarrollar nuevas tecnologías.
 
-☝️🤓 En mis ratos libres me dedico programar sistemas para servidores derivados de Argentum Online o estudiando a dos manos 🤣.
+☝️🤓 En mis ratos libres me dedico programar sistemas para servidores derivados de Argentum Online, sino, estoy entrenando.
 
 ## Mis habilidades
 
