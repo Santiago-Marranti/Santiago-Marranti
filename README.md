@@ -27,13 +27,13 @@ Por mi cuenta he hecho cursos de:
 
 <h4> Lenguajes </h4>
 <span> 
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,arduino,html,css,javascript" />
 </span>
 <img src="https://img.shields.io/badge/-Visual Basic 6.0-grey?style=for-the-badge&logoColor=white"></img></a>
 
 <h4> IDE´s </h4>
 <span> 
-    <img src="https://skillicons.dev/icons?i=unity,vscode,ps,idea,eclipse,apashe" />
+    <img src="https://skillicons.dev/icons?i=unity,vscode,ps,idea,eclipse,androidstudio" />
 </span>
 
 <h4> Bases de Datos </h4>
